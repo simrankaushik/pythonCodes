@@ -1,0 +1,3 @@
+list -  ordered , changeable , duplicate
+tuple - ordered , unchangeable , duplicate
+dictionaries - unordered , changeable , do not allow duplicate values
